@@ -1,0 +1,19 @@
+.select-style {
+    margin: 0 20px;
+    display: inline-block;
+}
+
+.select-style select {
+    background: transparent;
+    width: 80px;
+    padding: 5px;
+    font-size: 16px;
+    border: 2px solid #ccc; 
+    height: 34px;
+    color: #ccc;
+    outline: none;
+}
+
+.select-style option {
+    background-color: #222;
+}

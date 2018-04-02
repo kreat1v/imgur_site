@@ -1,0 +1,37 @@
+.post-wrap {
+    width: 500px;
+    margin: 20px auto;
+    border: 1px solid rgba(160, 160, 154, 0.808);
+    background: white;
+    color: black;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: block;
+}
+
+.header-post {
+    padding: 10px;
+    background-color: rgba(73, 102, 162, .5);
+    display: block;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+img {
+    width: 100%;
+    padding: 10px 0;
+}
+
+.back {
+    position: fixed;
+    left: 10px;
+    width: 80px;
+    padding: 5px;
+    font-size: 16px;
+    border: 2px solid #ccc; 
+    height: 34px;
+    color: #ccc;
+    text-decoration: none;
+}
